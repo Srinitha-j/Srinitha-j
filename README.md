@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Student** dedicate
 
 ---
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/srinitha-j) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jsrinitha05@gmail.com) 
 
@@ -22,7 +21,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Student** dedicate
 ---
 [![](https://visitcount.itsvg.in/api?id=Srinitha-j&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
 ## 💼 What I Do
 - Analyze complex datasets to uncover actionable insights
@@ -31,16 +29,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Student** dedicate
 - Create data visualizations that tell compelling stories
 - Write clean, reproducible code with comprehensive documentation
 - Collaborate on data-driven projects and research
-
----
-
-
-
-## 📊 GitHub Stats
-
-![Srinitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srinitha-j&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinitha-j&layout=compact&theme=radical)
 
 ---
 
@@ -59,13 +47,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Student** dedicate
 - Contribute to open-source data science projects
 - Share knowledge through data analysis projects and tutorials
 - Explore emerging technologies in AI and data science
-
----
-
-## 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/srinitha-j](https://www.linkedin.com/in/srinitha-j)
-- **Email:** jsrinitha05@gmail.com
-
 
 ---
 
