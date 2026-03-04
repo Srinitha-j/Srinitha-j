@@ -3,7 +3,6 @@
 ## About Me
 Welcome to my GitHub profile! I'm a passionate **Data Science Student** dedicated to extracting meaningful insights from data and building intelligent solutions. I love exploring data patterns, developing predictive models, and contributing to data-driven projects. With a strong foundation in statistical analysis and programming, I'm committed to leveraging data science to solve real-world problems.
 
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/srinitha-j) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jsrinitha05@gmail.com) 
@@ -18,28 +17,25 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Student** dedicate
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Srinitha-j&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Srinitha-j&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 💼 What I Do
 - Analyze complex datasets to uncover actionable insights
 - Build and train machine learning models for predictive analytics
-- Perform exploratory data analysis (EDA) and statistical testing
 - Create data visualizations that tell compelling stories
 - Write clean, reproducible code with comprehensive documentation
 - Collaborate on data-driven projects and research
 
----
+
 
 ## 🌱 Currently Learning
 - Advanced Machine Learning algorithms
 - Deep Learning and Neural Networks
-- Big Data technologies (Apache Spark, Hadoop)
 - Time Series Forecasting
 - Data Engineering best practices
 
----
 
 ## 🎯 Goals & Interests
 - Master machine learning and statistical modeling
@@ -48,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Student** dedicate
 - Share knowledge through data analysis projects and tutorials
 - Explore emerging technologies in AI and data science
 
----
+
 
 ## ⚡ Fun Facts
 - 💡 I love turning raw data into actionable insights
@@ -56,7 +52,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Student** dedicate
 - 📊 Data visualization enthusiast
 - 📚 Always learning new statistical methods
 
----
 
 ## 📈 Recent Activity
 - 🔭 Currently working on data science projects
@@ -64,4 +59,4 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Student** dedicate
 - 💬 Ask me about Python, R, SQL, data analysis, or machine learning!
 - 📧 Feel free to reach out for opportunities or data science discussions!
 
----
+
