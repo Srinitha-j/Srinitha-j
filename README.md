@@ -10,7 +10,7 @@
   <a href="mailto:jsrinitha05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <img src="https://visitcount.itsvg.in/api?id=Srinitha-j&icon=0&color=0" />
+
 </p>
 ---
  
