@@ -72,13 +72,17 @@ I'm a passionate **Data Science Student** dedicated to extracting meaningful ins
 
 ---
 
-## 🏆 Top Contributed Repos
+## 💼 What I Do
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Srinitha-j&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+- Analyze complex datasets to uncover actionable insights
+- Build and train machine learning models for predictive analytics
+- Create data visualizations that tell compelling stories
+- Write clean, reproducible code with comprehensive documentation
+- Collaborate on data-driven projects and research
 
 ---
 
-## 🎯 Goals
+## 🎯 Goals & Interests
 
 - Master machine learning and statistical modeling
 - Build predictive models that solve real-world problems
